@@ -1,7 +1,7 @@
 
 **Bill of Materials**
 
-| Quantity (MOQ) | Component Description | Price (Total) @ MOQ | Links (LCSC Part #) |
+| Quantity | Component Description | Price (Total)| Links (LCSC Part #) |
 |:---:|:---|:---:|:---|
 | 20x | SS34 Schottky Diode | $0.60 | https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_MDD_SS34_SS34_C8678.html (C8678) |
 | 5x | 22uH Power Inductor | $1 | https://lcsc.com/product-detail/Power-Inductors_ReliaPro_SMRH74-220MT_22uH_C27442.html (C27442) |
