@@ -5,7 +5,7 @@
 |:---:|:---|:---:|:---|
 | 20x | SS34 Schottky Diode | $0.60 | https://lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_MDD_SS34_SS34_C8678.html (C8678) |
 | 5x | 22uH Power Inductor | $1 | https://lcsc.com/product-detail/Power-Inductors_ReliaPro_SMRH74-220MT_22uH_C27442.html (C27442) |
-    | 5x | FS312F-G Protection IC | $0.50 | https://lcsc.com/product-detail/Battery-Protection-ICs_FORTUNE_FS312F-G_FS312F-G_C82736.html (C82736) |
+| 5x | FS312F-G Protection IC | $0.50 | https://lcsc.com/product-detail/Battery-Protection-ICs_FORTUNE_FS312F-G_FS312F-G_C82736.html (C82736) |
 | 10x | MT3608 Boost Converter IC | $0.70 | https://lcsc.com/product-detail/DC-DC-Converters_AEROSEMI_MT3608_MT3608_C84817.html (C84817) |
 | 100x | Red LED 0603 (KT-0603R) | $0.60 | https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_ReliaPro_KT-0603R_Red-LED-0603_C2286.html (C2286) |
 | 5x | Micro USB Port (SMD) | $0.40 | https://lcsc.com/product-detail/Micro-USB-Connectors_ValuePro_micro-USBFemale_MICRO-USB-5S-B-Type-horns-High-temperature_C10418.html (C10418) |
