@@ -20,7 +20,7 @@ This keyboard is a wireless Alice-like keyboard layout made of two PCBs using ES
 | 100x | 100 Ohm Resistor (0603) | $0.10 | https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_UniOhm_0603WAJ0101T5E_100-101-5_C25201.html (C25201) |
 | 100x | 1k Ohm Resistor (0603) | $0.10 | https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_UniOhm_0603WAJ0102T5E_1K-102-5_C25585.html (C25585) |
 | 100x | 2k Ohm Resistor (0603) | $0.10 | https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount-UniOhm_UniOhm_0603WAJ0202T5E_2K-202-5_C25590.html (C25590) |
-| 5x | 22uF Capacitor (1812) | $4.50 | https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH_1812X226K250NT_22uF-226-10-25V_C28504.html (C28504) |
+| 5x | 22uF Capacitor (1812) | $4.20 | https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH_1812X226K250NT_22uF-226-10-25V_C28504.html (C28504) |
 | 10x | FS8205 MOSFET IC | $0.55 | https://lcsc.com/product-detail/MOSFET_FORTUNE_FS8205_FS8205_C32254.html (C32254) |
 | 100x | 0.1uF Capacitor (0603) | $0.30 | https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_WTC_0603B104K250_0-1uF-104-10-25V_C83054.html (C83054) |
 | 50x | 10uF Capacitor (0603) | $0.30 | https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10A106MP8NNN_10uF-106-20-10V_C85713.html (C85713) |
@@ -30,14 +30,14 @@ This keyboard is a wireless Alice-like keyboard layout made of two PCBs using ES
 | 110x | TTC Neptune Venus Switches | $37 | https://www.aliexpress.com/item/1005008530751842.html? |
 | 2x | ESP32 C3 SuperMini | $5 | https://www.aliexpress.com/item/1005009495310442.html? |
 | 1x | Keycap set | $20 | https://www.aliexpress.com/item/1005005799670413.html? |
-| 2x | 103450 3.7V 2000mAh Battery | $20 | https://www.aliexpress.com/item/1005008129110763.html? |
-| NA | PCB | $115 | NA |
+| 2x | 103450 3.7V 2000mAh Battery | $18 | https://www.aliexpress.com/item/1005008129110763.html? |
+| NA | PCB | $100 | NA |
 
 Overall Order Total
 
 | Overall  | Price Breakdown                      | Price (Total) |
 |----------|--------------------------------------|---------------|
-| Components| Sum of all minimum order prices      | **$$217.30** |
+| Components| Sum of all minimum order prices      | **$$200** |
 
 CAD
 <img width="1026" height="456" alt="PNG image 3" src="https://github.com/user-attachments/assets/c0591718-7ad7-4d2b-8499-284aea4b3c48" />
