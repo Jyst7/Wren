@@ -18,6 +18,12 @@
 | 10x | FS8205 MOSFET IC | $0.55 | https://lcsc.com/product-detail/MOSFET_FORTUNE_FS8205_FS8205_C32254.html (C32254) |
 | 100x | 0.1uF Capacitor (0603) | $0.30 | https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_WTC_0603B104K250_0-1uF-104-10-25V_C83054.html (C83054) |
 | 50x | 10uF Capacitor (0603) | $0.30 | https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL10A106MP8NNN_10uF-106-20-10V_C85713.html (C85713) |
+| 150x | SK6812MINI-E | $9 | https://www.lcsc.com/product-detail/C5149201.html?s_z=n_SK6812MINI-E (C5149201) |
+| 100x | 1N4148W | $0.60 | https://www.lcsc.com/product-detail/C917030.html?s_z=n_1N4148W (C917030) |
+| 100x | 100nf capacitor | $0.50 | https://www.lcsc.com/product-detail/C49678.html?s_z=n_C49678 (C49678) |
+| 110x | TTC Neptune Venus Switches | $55 | https://www.aliexpress.com/item/1005008530751842.html? |
+| 2x | ESP32 C3 SuperMini | $5 | https://www.aliexpress.com/item/1005009495310442.html? |
+| 1x | Keycap set | $20 | https://www.aliexpress.com/item/1005005799670413.html? |
 ### Overall Minimum Order Total
 
 | Overall  | Price Breakdown                      | Price (Total) |
