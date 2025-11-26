@@ -37,7 +37,7 @@ Overall Order Total
 
 | Overall  | Price Breakdown                      | Price (Total) |
 |----------|--------------------------------------|---------------|
-| Components| Sum of all minimum order prices      | **$$122.60** |
+| Components| Sum of all minimum order prices      | **$$237.60** |
 
 CAD
 <img width="1026" height="456" alt="PNG image 3" src="https://github.com/user-attachments/assets/c0591718-7ad7-4d2b-8499-284aea4b3c48" />
