@@ -32,9 +32,16 @@ This keyboard is a wireless Alice-like keyboard layout made of two PCBs using ES
 | 1x | Keycap set | $20 | https://www.aliexpress.com/item/1005005799670413.html? |
 | 2x | 103450 3.7V 2000mAh Battery | $20 | https://www.aliexpress.com/item/1005008129110763.html? |
 
-### Overall Order Total
+Overall Order Total
 
 | Overall  | Price Breakdown                      | Price (Total) |
 |----------|--------------------------------------|---------------|
 | Components| Sum of all minimum order prices      | **$$122.60** |
 
+CAD
+<img width="1026" height="456" alt="PNG image 3" src="https://github.com/user-attachments/assets/c0591718-7ad7-4d2b-8499-284aea4b3c48" />
+PCB
+<img width="1115" height="540" alt="Screenshot 2025-11-25 at 7 33 45 PM" src="https://github.com/user-attachments/assets/c41f9c28-ea7b-48ee-a96e-dc234bf06a28" />
+Schematic
+<img width="958" height="479" alt="Screenshot 2025-11-25 at 7 44 41 PM" src="https://github.com/user-attachments/assets/29e3e1ca-d01b-48c9-aed3-fb35f7420f75" />
+<img width="294" height="712" alt="Screenshot 2025-11-25 at 7 44 46 PM" src="https://github.com/user-attachments/assets/5de5d7b8-b790-4f78-a179-657176ee57b0" />
