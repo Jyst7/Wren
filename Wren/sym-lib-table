@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32-S3-DEVKITC-1-N8R2")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/ESP32 S3 DevKitC 1 N8R2/ESP32-S3-DEVKITC-1-N8R2.kicad_sym")(options "")(descr ""))
+  (lib (name "ProLib Nov 19 2025")(type "EasyEDA (JLCEDA) Pro")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/ProLib Nov 19 2025.elibz")(options "")(descr ""))
+  (lib (name "DW01+G ProLib Nov 19 2025")(type "EasyEDA (JLCEDA) Pro")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/DW01+G ProLib Nov 19 2025.elibz")(options "")(descr ""))
+  (lib (name "FS8205 ProLib Nov 19 2025")(type "EasyEDA (JLCEDA) Pro")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/FS8205 ProLib Nov 19 2025.elibz")(options "")(descr ""))
+  (lib (name "SDB628 ProLib Nov 19 2025")(type "EasyEDA (JLCEDA) Pro")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/SDB628 ProLib Nov 19 2025.elibz")(options "")(descr ""))
+  (lib (name "ESP32-C3_SUPERMINI_TH")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/ESP32-C3 SuperMini TH/ESP32-C3_SUPERMINI_TH.kicad_sym")(options "")(descr ""))
+)

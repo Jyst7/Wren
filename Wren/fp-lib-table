@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Assets")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets")(options "")(descr ""))
+  (lib (name "TP4056 Model by Texas Instruments")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/TP4056 Model by Texas Instruments")(options "")(descr ""))
+  (lib (name "FS8205 Model by Fortune Semiconductor")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/FS8205 Model by Fortune Semiconductor")(options "")(descr ""))
+  (lib (name "Cheyao Macropad PCB Neopixel")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/Cheyao Macropad PCB Neopixel")(options "")(descr ""))
+  (lib (name "Switch_Keyboard_Cherry_MX")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/Switch_Keyboard_Cherry_MX.pretty")(options "")(descr ""))
+  (lib (name "ESP32-C3 SuperMini TH")(type "KiCad")(uri "/Users/jaysonsone/Desktop/Alice_Keyboard/Assets/ESP32-C3 SuperMini TH")(options "")(descr ""))
+)
