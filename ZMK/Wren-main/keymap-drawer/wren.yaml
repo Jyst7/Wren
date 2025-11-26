@@ -1,0 +1,432 @@
+layers:
+  Macos:
+  - {t: MUTE, s: PP}
+  - {t: ESC, s: '`'}
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '-'
+  - '='
+  - {t: BACKSPACE, s: DEL}
+  - DEL
+  - PAGE UP
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - '['
+  - ']'
+  - \
+  - PAGE DOWN
+  - {t: '&caps_word', s: CAPS}
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - ''''
+  - RET
+  - LSHFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - RSHFT
+  - DEL
+  - LCTRL
+  - LALT
+  - LGUI
+  - Settings
+  - {t: SPACE, h: Functions}
+  - RGUI
+  - RCTRL
+  Windows:
+  - {t: MUTE, s: PP}
+  - {t: ESC, s: '`'}
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '-'
+  - '='
+  - {t: BACKSPACE, s: DEL}
+  - DEL
+  - PAGE UP
+  - TAB
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - '['
+  - ']'
+  - \
+  - PAGE DOWN
+  - {t: '&caps_word', s: CAPS}
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - ''''
+  - RET
+  - LSHFT
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - B
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - RSHFT
+  - DEL
+  - LCTRL
+  - LGUI
+  - LALT
+  - Settings
+  - {t: SPACE, h: Functions}
+  - RALT
+  - RCTRL
+  Functions:
+  - {t: PP, s: '&soft_off'}
+  - {t: '~', s: EP TOG}
+  - {t: F1, s: BRI DN}
+  - {t: F2, s: BRI UP}
+  - {t: F3, s: Gui+ TAB}
+  - {t: F4, s: Gui+ E}
+  - {t: F5, s: RGB BRD}
+  - {t: F6, s: RGB BRI}
+  - {t: F7, s: PREV}
+  - {t: F8, s: PP}
+  - {t: F9, s: NEXT}
+  - {t: F10, s: MUTE}
+  - {t: F11, s: VOL DN}
+  - {t: F12, s: VOL UP}
+  - RGB TOG
+  - {t: BT CLR, s: BT CLR ALL}
+  - {t: HOME, s: '&sys_reset'}
+  - OUT TOG
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - {t: BT, h: '3'}
+  - {t: BT, h: '4'}
+  - ''
+  - ''
+  - UP
+  - ''
+  - PRINTSCREEN
+  - INSERT
+  - PAUSE BREAK
+  - RGB EFF
+  - {t: END, s: '&bootloader'}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - LEFT
+  - DOWN
+  - RIGHT
+  - ''
+  - ''
+  - {t: Windows, h: toggle}
+  - LSHFT
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - RSHFT
+  - {t: BT CLR, s: BT CLR ALL}
+  - LCTRL
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ''
+  - {type: held}
+  - {t: ▽, type: trans}
+  - RCTRL
+  Settings:
+  - '&soft_off'
+  - EP TOG
+  - BRI DEC
+  - BRI UP
+  - Gui+ TAB
+  - Gui+ E
+  - RGB BRD
+  - RGB BRI
+  - PREVIOUS
+  - PP
+  - NEXT
+  - MUTE
+  - VOL DN
+  - VOL UP
+  - RGB TOG
+  - {t: BT CLR, s: BT CLR ALL}
+  - '&sys_reset'
+  - OUT TOG
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - {t: BT, h: '3'}
+  - {t: BT, h: '4'}
+  - RGB BRI
+  - RGB HUI
+  - RGB SAI
+  - RGB SPI
+  - ''
+  - ''
+  - ''
+  - RGB EFF
+  - '&bootloader'
+  - '&studio_unlock'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - RGB BRD
+  - RGB HUD
+  - RGB SAD
+  - RGB SPD
+  - ''
+  - ''
+  - {t: Windows, h: toggle}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: BT CLR, s: BT CLR ALL}
+  - ''
+  - ''
+  - ''
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  extra1:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  extra2:
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+combos:
+- p: [14, 32]
+  k: '&studio_unlock'
+- p: [24, 32]
+  k: '&studio_unlock'
+- p: [50, 32]
+  k: '&bootloader'
+- p: [51, 32]
+  k: '&bootloader'
+- p: [21, 32]
+  k: '&sys_reset'
+- p: [34, 32]
+  k: '&soft_off'
+- p: [27, 32]
+  k: EP TOG
+- p: [25, 17]
+  k: INSERT
+- p: [27, 17]
+  k: PRINTSCREEN
+- p: [17, 63]
+  k: PAUSE BREAK
+- p: [2, 32]
+  k: EP ON
+- p: [11, 32]
+  k: EP OFF
+- p: [61, 63, 27]
+  k: '&win_shutdown'
+- p: [61, 63, 34]
+  k: '&win_sleep'

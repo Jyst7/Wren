@@ -1,0 +1,337 @@
+(footprint "SW_Cherry_MX_PCB_1.00u"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Cherry MX keyswitch PCB Mount Keycap 1.00u")
+	(tags "Cherry MX Keyboard Keyswitch Switch PCB Cutout Keycap 1.00u")
+	(property "Reference" "REF**"
+		(at 9.525 1.525 0)
+		(layer "F.SilkS")
+		(uuid "336eb82e-6625-4aae-a66b-17887c1dd916")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_Cherry_MX_PCB_1.00u"
+		(at 9.525 17.525 0)
+		(layer "F.Fab")
+		(uuid "b21a6923-ff55-4bb9-a7d5-6320fbd0a60f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 9.525 9.525 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8a79f29-996b-4650-8b70-1fcca4f4bd6e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 9.525 9.525 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "173c64c6-7748-4a46-845d-e6e1760b50cd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 2.425 2.425)
+		(end 2.425 16.625)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e3199944-fdb2-4811-b25f-20794aa31ef7")
+	)
+	(fp_line
+		(start 2.425 16.625)
+		(end 16.625 16.625)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "49f51095-6e84-410b-923b-7d81d235e573")
+	)
+	(fp_line
+		(start 16.625 2.425)
+		(end 2.425 2.425)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "85c83e4a-b69f-4be9-ac65-8bb0928ba4f7")
+	)
+	(fp_line
+		(start 16.625 16.625)
+		(end 16.625 2.425)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "54310917-12d1-438c-b658-0250f4dbc471")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 19.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "263c5aa3-5a48-494d-8d25-7b3880e688fb")
+	)
+	(fp_line
+		(start 0 19.05)
+		(end 19.05 19.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "9afd85c5-1217-46d9-b2f2-f863e89fc7f0")
+	)
+	(fp_line
+		(start 19.05 0)
+		(end 0 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "ff22054e-3944-44ac-8320-81a88259c629")
+	)
+	(fp_line
+		(start 19.05 19.05)
+		(end 19.05 0)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "d95ff723-3885-4bbe-96ec-f0d2597224d8")
+	)
+	(fp_line
+		(start 2.525 2.525)
+		(end 2.525 16.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "b7d0af28-0654-4840-8f7e-a2b8f76b8c04")
+	)
+	(fp_line
+		(start 2.525 16.525)
+		(end 16.525 16.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "1c54573d-c60e-4f58-847d-a20fd93e1c0c")
+	)
+	(fp_line
+		(start 16.525 2.525)
+		(end 2.525 2.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "23bdb224-d9bf-4de3-9e55-1127188919e3")
+	)
+	(fp_line
+		(start 16.525 16.525)
+		(end 16.525 2.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Eco1.User")
+		(uuid "c6c18a6f-176d-4384-84a1-c7262a227403")
+	)
+	(fp_line
+		(start 2.275 2.275)
+		(end 2.275 16.775)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a54a246d-b7c9-43c3-b737-e3c952e55de2")
+	)
+	(fp_line
+		(start 2.275 16.775)
+		(end 16.775 16.775)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e2d6131-aacb-47f5-b3b8-f77ef367bd17")
+	)
+	(fp_line
+		(start 16.775 2.275)
+		(end 2.275 2.275)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f9543230-e0d6-44ca-a3da-a2bb0381a885")
+	)
+	(fp_line
+		(start 16.775 16.775)
+		(end 16.775 2.275)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4a8d5393-331b-4d26-9950-3c3f701cbe97")
+	)
+	(fp_line
+		(start 2.525 2.525)
+		(end 2.525 16.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7b4aa50f-7928-44df-a751-27516b616367")
+	)
+	(fp_line
+		(start 2.525 16.525)
+		(end 16.525 16.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "031703d9-35d4-44f3-807f-812dfcd3f119")
+	)
+	(fp_line
+		(start 16.525 2.525)
+		(end 2.525 2.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "85e7bb47-47c6-42f5-9573-ecfdb1d9efca")
+	)
+	(fp_line
+		(start 16.525 16.525)
+		(end 16.525 2.525)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c5715711-c267-44ba-8b28-33f9990d4440")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 9.525 9.525 0)
+		(layer "F.Fab")
+		(uuid "7ca1bc67-46e6-4aec-b9dd-fd05bd20c6bb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 4.445 9.525)
+		(size 1.75 1.75)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(uuid "70341932-67ee-4ad9-b216-4e920752d45d")
+	)
+	(pad "" np_thru_hole circle
+		(at 9.525 9.525)
+		(size 4 4)
+		(drill 4)
+		(layers "*.Cu" "*.Mask")
+		(uuid "812d312d-8611-44c3-81e2-aefd5c749e63")
+	)
+	(pad "" np_thru_hole circle
+		(at 14.605 9.525)
+		(size 1.75 1.75)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(uuid "76326253-c112-4bd8-87ce-d3b93cdd11c3")
+	)
+	(pad "1" thru_hole circle
+		(at 5.715 6.985)
+		(size 2.5 2.5)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "769ac97c-05da-4549-ba0d-755f02d9c066")
+	)
+	(pad "2" thru_hole circle
+		(at 12.065 4.445)
+		(size 2.5 2.5)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7f55216e-c547-4aec-8b1d-9b1e959e83d8")
+	)
+	(embedded_fonts no)
+	(model "${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Cherry_MX_PCB.wrl"
+		(offset
+			(xyz 9.525 -9.525 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "/Users/jaysonsone/Documents/LinearKeyboard/Assets/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB.stp"
+		(offset
+			(xyz 9.525 -9.525 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "/Users/jaysonsone/Documents/LinearKeyboard/Assets/Switch_Keyboard_Cherry_MX.pretty/SW_Cherry_MX_PCB.stp"
+		(offset
+			(xyz 9.525 -9.525 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
