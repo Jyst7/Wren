@@ -30,4 +30,4 @@
 
 | Overall  | Price Breakdown                      | Price (Total) |
 |----------|--------------------------------------|---------------|
-| Components| Sum of all minimum order prices      | **$$122.60** |
+| Components| Sum of all order prices      | **$$122.60** |
