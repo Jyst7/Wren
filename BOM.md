@@ -25,9 +25,10 @@
 | 2x | ESP32 C3 SuperMini | $5 | https://www.aliexpress.com/item/1005009495310442.html? |
 | 1x | Keycap set | $20 | https://www.aliexpress.com/item/1005005799670413.html? |
 | 2x | 103450 3.7V 2000mAh Battery | $20 | https://www.aliexpress.com/item/1005008129110763.html? |
+| NA | PCB | $115 | NA |
 
 ### Overall Order Total
 
 | Overall  | Price Breakdown                      | Price (Total) |
 |----------|--------------------------------------|---------------|
-| Components| Sum of all order prices      | **$$122.60** |
+| Components| Sum of all order prices      | **$237.60** |
