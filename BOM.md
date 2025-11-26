@@ -26,7 +26,7 @@
 | 1x | Keycap set | $20 | https://www.aliexpress.com/item/1005005799670413.html? |
 | 2x | 103450 3.7V 2000mAh Battery | $20 | https://www.aliexpress.com/item/1005008129110763.html? |
 
-### Overall Minimum Order Total
+### Overall Order Total
 
 | Overall  | Price Breakdown                      | Price (Total) |
 |----------|--------------------------------------|---------------|
