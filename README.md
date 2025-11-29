@@ -17,7 +17,7 @@ This keyboard is a wireless Alice-like keyboard layout made of two PCBs using ES
 | 2x | Seeed Studio XIAO nRF52840 Plus | $20 | https://www.aliexpress.com/item/1005008326858009.html? |
 | 1x | Keycap set | $20 | https://www.aliexpress.com/item/1005005799670413.html? |
 | 2x | 103450 3.7V 2000mAh Battery | $25 | https://www.aliexpress.com/item/1005008129110763.html? |
-| NA | PCB | $100 | NA |
+| NA | PCB | $102 | NA |
 
 Overall Order Total
 
