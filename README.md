@@ -42,7 +42,6 @@ Overall Order Total
 CAD
 <img width="1026" height="456" alt="PNG image 3" src="https://github.com/user-attachments/assets/c0591718-7ad7-4d2b-8499-284aea4b3c48" />
 PCB
-<img width="1115" height="540" alt="Screenshot 2025-11-25 at 7 33 45 PM" src="https://github.com/user-attachments/assets/c41f9c28-ea7b-48ee-a96e-dc234bf06a28" />
+<img width="1058" height="430" alt="Screenshot 2025-11-29 at 3 50 53 PM" src="https://github.com/user-attachments/assets/aee99fef-607a-41df-91ff-ee09b7822885" />
 Schematic
-<img width="958" height="479" alt="Screenshot 2025-11-25 at 7 44 41 PM" src="https://github.com/user-attachments/assets/29e3e1ca-d01b-48c9-aed3-fb35f7420f75" />
-<img width="294" height="712" alt="Screenshot 2025-11-25 at 7 44 46 PM" src="https://github.com/user-attachments/assets/5de5d7b8-b790-4f78-a179-657176ee57b0" />
+<img width="235" height="742" alt="Screenshot 2025-11-29 at 3 51 22 PM" src="https://github.com/user-attachments/assets/810d8415-cc0b-4819-a5cb-e9968e75b59d" />
